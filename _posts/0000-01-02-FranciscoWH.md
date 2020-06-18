@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Ecologia Política e Covid19
 Use the left arrow to go back!
